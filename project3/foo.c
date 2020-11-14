@@ -1,4 +1,4 @@
-#include "foo.h"
+#include "given/foo.h"
 
 long foo ( long a, long b )
 {
